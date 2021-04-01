@@ -1,0 +1,25 @@
+labs
+100
+100
+90
+95
+85
+Lab reports
+100
+95
+95
+100
+99
+homework
+99
+84
+59
+90
+73
+77
+exam-1
+84.3
+exam-2
+87.5
+Final Exam
+85
